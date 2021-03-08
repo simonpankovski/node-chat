@@ -1,4 +1,4 @@
-# client
+# Simple chat app using Node, Express and React
 
 ## Project setup
 ```
