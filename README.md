@@ -1,4 +1,4 @@
-# Simple chat app using Node, Express and React
+# Simple chat app using Node, Express and Vue.js
 
 ## Project setup
 ```
